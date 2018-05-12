@@ -1,0 +1,34 @@
+_repo: Sappho-s-Journal_39467
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39467-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Paul Alexander
+    birthdate: 1909
+    deathdate: 1990
+    gutenberg_agent_id: '40002'
+    url: http://www.gutenberg.org/2009/agents/40002
+  editor:
+    agent_name: Bartlett, Steven J.
+    alias: Bartlett, Steven James
+    birthdate: 1945
+    gutenberg_agent_id: '42993'
+    url: http://www.gutenberg.org/2009/agents/42993
+description: ''
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39467'
+  lccn: '2006025662'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Sappho -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+title: Sappho's Journal
+url: http://www.gutenberg.org/ebooks/39467
